@@ -1,6 +1,8 @@
+package CondicionaisSimples;
+
 import java.util.Scanner;
 
-public class ImposteDeRenda {
+public class Exercicio10_ImposteDeRenda {
     public static void main(String[] args) {
         double salario, imposto;
         Scanner scan = new Scanner(System.in);

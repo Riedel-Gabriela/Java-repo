@@ -4,19 +4,30 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e844c916-13ef-4285-b5f5-782a8673573d" name="Changes" comment="add: arquivos iniciais">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CalculadoraSimples.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Diagnostico.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ImposteDeRenda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Multa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OrdemNumerica.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+    <list default="true" id="e844c916-13ef-4285-b5f5-782a8673573d" name="Changes" comment="add: arquivos iniciais&#10;add: exercícios operadores logicos e condicionais simples">
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CondicionaisSimples/Exercicio14_ImpostoImovel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CondicionaisSimples/Exercicio1_SinalNumerico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CondicionaisSimples/Exercicio2_ParOuImpar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CondicionaisSimples/Exercicio3_Idade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CondicionaisSimples/Exercicio4_Senha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CondicionaisSimples/Exercicio5_ConferindoIdade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CondicionaisSimples/Exercicio6_Media.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CondicionaisSimples/Exercicio7_PrevisaoTempo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CondicionaisSimples/Exercicio8_EqSegGrau.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OperadoresLogicos/Exercicio1_Diagnostico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OperadoresLogicos/Exercicio2_NumerosOrdenados.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OperadoresLogicos/Exercicio3_OrdenandoNumeros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OperadoresLogicos/Exercicio4_SetorFazenda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OperadoresLogicos/Exercicio5_AlunoAprovado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OperadoresLogicos/Exercicio6_Aposentadoria.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CalculadoraSimples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CondicionaisSimples/Exercicio13_CalculadoraSimples.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Diagnostico.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CondicionaisSimples/Exercicio11_Diagnostico.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ImposteDeRenda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CondicionaisSimples/Exercicio10_ImposteDeRenda.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Multa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CondicionaisSimples/Exercicio9_Multa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OrdemNumerica.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CondicionaisSimples/Exercicio12_OrdemNumerica.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,36 +44,39 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2esj9bQyp1a3u0bqM3rjzqQZH5H" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.CalculadoraSimples.executor": "Run",
-    "Application.Diagnostico.executor": "Run",
-    "Application.OrdemNumerica.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.CalculadoraSimples.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Diagnostico.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OrdemNumerica.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -107,6 +121,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add: arquivos iniciais" />
-    <option name="LAST_COMMIT_MESSAGE" value="add: arquivos iniciais" />
+    <MESSAGE value="add: arquivos iniciais&#10;add: exercícios operadores logicos e condicionais simples" />
+    <option name="LAST_COMMIT_MESSAGE" value="add: arquivos iniciais&#10;add: exercícios operadores logicos e condicionais simples" />
   </component>
 </project>

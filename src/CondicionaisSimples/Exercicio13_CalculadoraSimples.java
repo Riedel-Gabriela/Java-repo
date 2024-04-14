@@ -1,6 +1,8 @@
+package CondicionaisSimples;
+
 import java.util.Scanner;
 
-class CalculadoraSimples {
+class Exercicio13_CalculadoraSimples {
     public static void main(String[] args) {
         double valor1, valor2, resultado;
         String operador;

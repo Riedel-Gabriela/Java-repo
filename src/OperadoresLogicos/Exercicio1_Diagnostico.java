@@ -1,6 +1,7 @@
+package OperadoresLogicos;
 import java.util.Scanner;
 
-class Diagnostico {
+public class Exercicio1_Diagnostico {
     public static void main(String[] args) {
         int pressao_sistolica;
         double idade;
@@ -17,15 +18,12 @@ class Diagnostico {
         sinus_taquicardia = scan.next();
 
         scan.close();
-
-        if (pressao_sistolica < 91) {
-            System.out.print("URGENTE");
-        } else if (idade < 62.5) {
-            System.out.print("NORMAL");
-        } else if (sinus_taquicardia.equals("sim")) {
-            System.out.print("URGENTE");
-        } else {
-            System.out.print("NORMAL");
-        }
+         if (pressao_sistolica > 91) {
+             System.out.print("URGENTE");
+         } else if (pressao_sistolica < 91 && idade > 62.5 && sinus_taquicardia.equals("sim")) {
+             System.out.print("URGENTE");
+         } else {
+             System.out.print("NORMAL");
+         }
     }
 }

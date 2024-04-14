@@ -1,8 +1,10 @@
+package CondicionaisSimples;
+
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Scanner;
 
-class OrdemNumerica {
+class Exercicio12_OrdemNumerica {
     public static void main(String[] args) {
         int n1, n2, n3;
         Scanner scan = new Scanner(System.in);
@@ -14,7 +16,7 @@ class OrdemNumerica {
 
         scan.close();
 
-        ArrayList<Integer> numeros = new ArrayList<Integer>();
+        ArrayList<Integer> numeros = new ArrayList<>();
         numeros.add(n1);
         numeros.add(n2);
         numeros.add(n3);
