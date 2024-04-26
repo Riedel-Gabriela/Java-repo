@@ -4,12 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e844c916-13ef-4285-b5f5-782a8673573d" name="Changes" comment="add: arquivos iniciais&#10;add: exercícios operadores logicos e condicionais simples">
-      <change afterPath="$PROJECT_DIR$/src/OperadoresLogicos/Exercicio7_PesoIdeal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OperadoresLogicos/Exercicio8_DiaUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OperadoresLogicos/Exercicio9_CalculadoraSwitchCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Testes/Teste4.java" afterDir="false" />
+    <list default="true" id="e844c916-13ef-4285-b5f5-782a8673573d" name="Changes" comment="add: arquivos iniciais&#10;add: exercícios operadores logicos e condicionais simples&#10;&#10;add: Exercicios 26/04">
+      <change afterPath="$PROJECT_DIR$/src/Strings/Exercicio1_PrintString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strings/Exercicio1_Strings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strings/Exercicio2_ComprimentoSenha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strings/Exercicio4_VerificaSenha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Testes/Teste5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Testes/Teste4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Testes/Teste4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,16 +28,16 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Riedel-Gabriela"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Riedel-Gabriela&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/Riedel-Gabriela/Java-repo.git",
-    "accountId": "429b20a2-cb63-4a59-8c41-daf6ca23a7ab"
+    "accountId": "3dd81607-1065-4819-858b-eda1855262b2"
   }
 }]]></component>
   <component name="MarkdownSettingsMigration">
@@ -54,8 +56,13 @@
   "keyToString": {
     "Application.CalculadoraSimples.executor": "Run",
     "Application.Diagnostico.executor": "Run",
+    "Application.Exercicio1_PrintString.executor": "Run",
+    "Application.Exercicio1_Strings.executor": "Run",
+    "Application.Exercicio2_ComprimentoSenha.executor": "Run",
+    "Application.Exercicio4_VerificaSenha.executor": "Run",
     "Application.Exercicio9_CalculadoraSwitchCase.executor": "Run",
     "Application.OrdemNumerica.executor": "Run",
+    "Application.Teste5.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -90,6 +97,7 @@
       <updated>1712700030063</updated>
       <workItem from="1712700031300" duration="4852000" />
       <workItem from="1713563631404" duration="3797000" />
+      <workItem from="1714167756833" duration="5266000" />
     </task>
     <task id="LOCAL-00001" summary="add: arquivos iniciais">
       <option name="closed" value="true" />
@@ -119,6 +127,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add: arquivos iniciais" />
     <MESSAGE value="add: arquivos iniciais&#10;add: exercícios operadores logicos e condicionais simples" />
-    <option name="LAST_COMMIT_MESSAGE" value="add: arquivos iniciais&#10;add: exercícios operadores logicos e condicionais simples" />
+    <MESSAGE value="add: arquivos iniciais&#10;add: exercícios operadores logicos e condicionais simples&#10;&#10;add: Exercicios 26/04" />
+    <option name="LAST_COMMIT_MESSAGE" value="add: arquivos iniciais&#10;add: exercícios operadores logicos e condicionais simples&#10;&#10;add: Exercicios 26/04" />
   </component>
 </project>

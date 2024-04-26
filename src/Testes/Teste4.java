@@ -12,9 +12,9 @@ public class Teste4 {
         scan.close();
 
         if (ano % 4 == 0 && ano % 100 != 0 || ano % 400 == 0) {
-            System.out.printf("Ano %d é Bissexto!", ano);
+            System.out.println("BISSEXTO");
         } else {
-            System.out.printf("Ano %d não é Bissexto!", ano);
+            System.out.println("NORMAL");
         }
     }
 }
