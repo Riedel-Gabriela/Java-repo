@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e844c916-13ef-4285-b5f5-782a8673573d" name="Changes" comment="add: arquivos iniciais&#10;add: exercícios operadores logicos e condicionais simples&#10;&#10;add: Exercicios 26/04&#10;add: Desafios">
-      <change afterPath="$PROJECT_DIR$/src/Desafios/ValidadorCPF.java" afterDir="false" />
+    <list default="true" id="e844c916-13ef-4285-b5f5-782a8673573d" name="Changes" comment="add: arquivos iniciais&#10;add: exercícios operadores logicos e condicionais simples&#10;&#10;add: Exercicios 26/04&#10;add: Desafios&#10;add: Desafio tempoDecorrido">
+      <change afterPath="$PROJECT_DIR$/src/Desafios/TempoDecorrido.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Desafios/verificadorData.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,7 +33,7 @@
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/Riedel-Gabriela/Java-repo.git",
-    "accountId": "27c6d87e-f21c-4302-9c2c-82d1f28427ac"
+    "accountId": "5ec91cba-0c06-4be5-8db5-7c52317506fa"
   }
 }]]></component>
   <component name="MarkdownSettingsMigration">
@@ -57,8 +58,10 @@
     "Application.Exercicio4_VerificaSenha.executor": "Run",
     "Application.Exercicio9_CalculadoraSwitchCase.executor": "Run",
     "Application.OrdemNumerica.executor": "Run",
+    "Application.TempoDecorrido.executor": "Run",
     "Application.Teste5.executor": "Run",
     "Application.ValidadorCPF.executor": "Run",
+    "Application.verificadorData.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -95,6 +98,7 @@
       <workItem from="1713563631404" duration="3797000" />
       <workItem from="1714167756833" duration="5266000" />
       <workItem from="1719957154235" duration="4969000" />
+      <workItem from="1720215940195" duration="5103000" />
     </task>
     <task id="LOCAL-00001" summary="add: arquivos iniciais">
       <option name="closed" value="true" />
@@ -126,6 +130,7 @@
     <MESSAGE value="add: arquivos iniciais&#10;add: exercícios operadores logicos e condicionais simples" />
     <MESSAGE value="add: arquivos iniciais&#10;add: exercícios operadores logicos e condicionais simples&#10;&#10;add: Exercicios 26/04" />
     <MESSAGE value="add: arquivos iniciais&#10;add: exercícios operadores logicos e condicionais simples&#10;&#10;add: Exercicios 26/04&#10;add: Desafios" />
-    <option name="LAST_COMMIT_MESSAGE" value="add: arquivos iniciais&#10;add: exercícios operadores logicos e condicionais simples&#10;&#10;add: Exercicios 26/04&#10;add: Desafios" />
+    <MESSAGE value="add: arquivos iniciais&#10;add: exercícios operadores logicos e condicionais simples&#10;&#10;add: Exercicios 26/04&#10;add: Desafios&#10;add: Desafio tempoDecorrido" />
+    <option name="LAST_COMMIT_MESSAGE" value="add: arquivos iniciais&#10;add: exercícios operadores logicos e condicionais simples&#10;&#10;add: Exercicios 26/04&#10;add: Desafios&#10;add: Desafio tempoDecorrido" />
   </component>
 </project>
