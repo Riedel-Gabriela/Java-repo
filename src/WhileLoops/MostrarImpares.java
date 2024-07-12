@@ -1,4 +1,4 @@
-package Loops;
+package WhileLoops;
 
 import java.util.Scanner;
 
@@ -14,7 +14,7 @@ public class MostrarImpares {
 
         while (contador <= number) {
             if (contador % 2 != 0) {
-                System.out.println(contador);
+                System.out.print(contador + " ");
             }
             contador++;
         }

@@ -5,10 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e844c916-13ef-4285-b5f5-782a8673573d" name="Changes" comment="add: arquivos iniciais&#10;add: exercícios operadores logicos e condicionais simples&#10;&#10;add: Exercicios 26/04&#10;add: Desafios&#10;add: Desafio tempoDecorrido">
-      <change afterPath="$PROJECT_DIR$/src/Loops/FizzBuzz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Loops/MostrarImpares.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Testes/Teste6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WhileLoops/MostrarPares.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WhileLoops/PA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WhileLoops/PG.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WhileLoops/PrimeNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Loops/FizzBuzz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WhileLoops/FizzBuzz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Loops/MostrarImpares.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WhileLoops/MostrarImpares.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +62,12 @@
     "Application.Exercicio4_VerificaSenha.executor": "Run",
     "Application.Exercicio9_CalculadoraSwitchCase.executor": "Run",
     "Application.FizzBuzz.executor": "Run",
+    "Application.MostrarImpares.executor": "Run",
+    "Application.MostrarPares.executor": "Run",
     "Application.OrdemNumerica.executor": "Run",
+    "Application.PA.executor": "Run",
+    "Application.PG.executor": "Run",
+    "Application.PrimeNumber.executor": "Run",
     "Application.TempoDecorrido.executor": "Run",
     "Application.Teste5.executor": "Run",
     "Application.Teste6.executor": "Run",
@@ -103,6 +111,7 @@
       <workItem from="1719957154235" duration="4969000" />
       <workItem from="1720215940195" duration="5103000" />
       <workItem from="1720561467391" duration="4804000" />
+      <workItem from="1720821079122" duration="5460000" />
     </task>
     <task id="LOCAL-00001" summary="add: arquivos iniciais">
       <option name="closed" value="true" />
