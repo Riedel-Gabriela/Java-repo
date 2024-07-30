@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e844c916-13ef-4285-b5f5-782a8673573d" name="Changes" comment="add: arquivos iniciais&#10;add: exercícios operadores logicos e condicionais simples&#10;&#10;add: Exercicios 26/04&#10;add: Desafios&#10;add: Desafio tempoDecorrido&#10;add: ForLoop&#10;add: vetores e laço for">
-      <change afterPath="$PROJECT_DIR$/src/ForLoops/IniciaisMaiusculas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ForLoops/MDC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Matrizes/PrevisorDoTempo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Vetores/NumerosAleatorios.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringAndLoops/ContadorPalavras.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,7 +32,7 @@
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/Riedel-Gabriela/Java-repo.git",
-    "accountId": "4c5ba892-f4dd-4370-9426-f702b8f0a0f5"
+    "accountId": "1bc39562-601f-42c3-920e-52104a47a0b5"
   }
 }]]></component>
   <component name="MarkdownSettingsMigration">
@@ -53,6 +50,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.CalculadoraSimples.executor": "Run",
+    "Application.ContadorPalavras.executor": "Run",
     "Application.Diagnostico.executor": "Run",
     "Application.Exercicio1_PrintString.executor": "Run",
     "Application.Exercicio1_Strings.executor": "Run",
@@ -118,6 +116,7 @@
       <workItem from="1720821079122" duration="5460000" />
       <workItem from="1721771184262" duration="4656000" />
       <workItem from="1722030273611" duration="6309000" />
+      <workItem from="1722375495170" duration="5287000" />
     </task>
     <task id="LOCAL-00001" summary="add: arquivos iniciais">
       <option name="closed" value="true" />
