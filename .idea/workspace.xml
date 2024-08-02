@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e844c916-13ef-4285-b5f5-782a8673573d" name="Changes" comment="add: arquivos iniciais&#10;add: exercícios operadores logicos e condicionais simples&#10;&#10;add: Exercicios 26/04&#10;add: Desafios&#10;add: Desafio tempoDecorrido&#10;add: ForLoop&#10;add: vetores e laço for">
-      <change afterPath="$PROJECT_DIR$/src/StringAndLoops/ContadorPalavras.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Methods/VerificaNegativoPositivo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Methods/VerificaNota.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Methods/VerificaParOuImpar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Testes/Teste9.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,7 +35,7 @@
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/Riedel-Gabriela/Java-repo.git",
-    "accountId": "1bc39562-601f-42c3-920e-52104a47a0b5"
+    "accountId": "7e4bc72e-89f8-4b64-b55c-00b76204a019"
   }
 }]]></component>
   <component name="MarkdownSettingsMigration">
@@ -73,7 +76,10 @@
     "Application.Teste5.executor": "Run",
     "Application.Teste6.executor": "Run",
     "Application.Teste8.executor": "Run",
+    "Application.Teste9.executor": "Run",
     "Application.ValidadorCPF.executor": "Run",
+    "Application.VerificaNegativoPositivo.executor": "Run",
+    "Application.VerificaParOuImpar.executor": "Run",
     "Application.verificadorData.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -117,6 +123,7 @@
       <workItem from="1721771184262" duration="4656000" />
       <workItem from="1722030273611" duration="6309000" />
       <workItem from="1722375495170" duration="5287000" />
+      <workItem from="1722634879947" duration="4548000" />
     </task>
     <task id="LOCAL-00001" summary="add: arquivos iniciais">
       <option name="closed" value="true" />
