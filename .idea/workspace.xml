@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e844c916-13ef-4285-b5f5-782a8673573d" name="Changes" comment="add: arquivos iniciais&#10;add: exercícios operadores logicos e condicionais simples&#10;&#10;add: Exercicios 26/04&#10;add: Desafios&#10;add: Desafio tempoDecorrido&#10;add: ForLoop&#10;add: vetores e laço for">
-      <change afterPath="$PROJECT_DIR$/src/Methods/VerificaNegativoPositivo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Methods/VerificaNota.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Methods/VerificaParOuImpar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Testes/Teste9.java" afterDir="false" />
+    <list default="true" id="e844c916-13ef-4285-b5f5-782a8673573d" name="Changes" comment="add: arquivos iniciais&#10;add: exercícios operadores logicos e condicionais simples&#10;&#10;add: Exercicios 26/04&#10;add: Desafios&#10;add: Desafio tempoDecorrido&#10;add: ForLoop&#10;add: vetores e laço for&#10;&#10;add: teste10">
+      <change afterPath="$PROJECT_DIR$/src/ForLoops/VerificaData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Testes/Teste10.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,12 +30,12 @@
     &quot;assignee&quot;: &quot;Riedel-Gabriela&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Riedel-Gabriela/Java-repo.git",
-    "accountId": "7e4bc72e-89f8-4b64-b55c-00b76204a019"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Riedel-Gabriela/Java-repo.git&quot;,
+    &quot;accountId&quot;: &quot;7e4bc72e-89f8-4b64-b55c-00b76204a019&quot;
   }
-}]]></component>
+}</component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -73,11 +71,13 @@
     "Application.PrevisorDoTempo.executor": "Run",
     "Application.PrimeNumber.executor": "Run",
     "Application.TempoDecorrido.executor": "Run",
+    "Application.Teste10.executor": "Run",
     "Application.Teste5.executor": "Run",
     "Application.Teste6.executor": "Run",
     "Application.Teste8.executor": "Run",
     "Application.Teste9.executor": "Run",
     "Application.ValidadorCPF.executor": "Run",
+    "Application.VerificaData.executor": "Run",
     "Application.VerificaNegativoPositivo.executor": "Run",
     "Application.VerificaParOuImpar.executor": "Run",
     "Application.verificadorData.executor": "Run",
@@ -86,6 +86,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/aluno/Downloads/Pesos",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -124,6 +125,7 @@
       <workItem from="1722030273611" duration="6309000" />
       <workItem from="1722375495170" duration="5287000" />
       <workItem from="1722634879947" duration="4548000" />
+      <workItem from="1722980449549" duration="3704000" />
     </task>
     <task id="LOCAL-00001" summary="add: arquivos iniciais">
       <option name="closed" value="true" />
@@ -158,7 +160,8 @@
     <MESSAGE value="add: arquivos iniciais&#10;add: exercícios operadores logicos e condicionais simples&#10;&#10;add: Exercicios 26/04&#10;add: Desafios&#10;add: Desafio tempoDecorrido" />
     <MESSAGE value="add: arquivos iniciais&#10;add: exercícios operadores logicos e condicionais simples&#10;&#10;add: Exercicios 26/04&#10;add: Desafios&#10;add: Desafio tempoDecorrido&#10;add: ForLoop" />
     <MESSAGE value="add: arquivos iniciais&#10;add: exercícios operadores logicos e condicionais simples&#10;&#10;add: Exercicios 26/04&#10;add: Desafios&#10;add: Desafio tempoDecorrido&#10;add: ForLoop&#10;add: vetores e laço for" />
-    <option name="LAST_COMMIT_MESSAGE" value="add: arquivos iniciais&#10;add: exercícios operadores logicos e condicionais simples&#10;&#10;add: Exercicios 26/04&#10;add: Desafios&#10;add: Desafio tempoDecorrido&#10;add: ForLoop&#10;add: vetores e laço for" />
+    <MESSAGE value="add: arquivos iniciais&#10;add: exercícios operadores logicos e condicionais simples&#10;&#10;add: Exercicios 26/04&#10;add: Desafios&#10;add: Desafio tempoDecorrido&#10;add: ForLoop&#10;add: vetores e laço for&#10;&#10;add: teste10" />
+    <option name="LAST_COMMIT_MESSAGE" value="add: arquivos iniciais&#10;add: exercícios operadores logicos e condicionais simples&#10;&#10;add: Exercicios 26/04&#10;add: Desafios&#10;add: Desafio tempoDecorrido&#10;add: ForLoop&#10;add: vetores e laço for&#10;&#10;add: teste10" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
