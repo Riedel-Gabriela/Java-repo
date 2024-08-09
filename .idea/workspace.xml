@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e844c916-13ef-4285-b5f5-782a8673573d" name="Changes" comment="add: arquivos iniciais&#10;add: exercícios operadores logicos e condicionais simples&#10;&#10;add: Exercicios 26/04&#10;add: Desafios&#10;add: Desafio tempoDecorrido&#10;add: ForLoop&#10;add: vetores e laço for&#10;&#10;add: teste10">
-      <change afterPath="$PROJECT_DIR$/src/ForLoops/VerificaData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Testes/Teste10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Methods/CalculaMedia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Methods/MaiorNumero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Methods/VerificaOrdenados.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Methods/VerificaNota.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Methods/VerificaNota.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,12 +32,12 @@
     &quot;assignee&quot;: &quot;Riedel-Gabriela&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/Riedel-Gabriela/Java-repo.git&quot;,
-    &quot;accountId&quot;: &quot;7e4bc72e-89f8-4b64-b55c-00b76204a019&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Riedel-Gabriela/Java-repo.git",
+    "accountId": "0683bd9f-fdfb-40df-9a2c-ed1406d58bc1"
   }
-}</component>
+}]]></component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -50,6 +52,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.CalculaMedia.executor": "Run",
     "Application.CalculadoraSimples.executor": "Run",
     "Application.ContadorPalavras.executor": "Run",
     "Application.Diagnostico.executor": "Run",
@@ -62,6 +65,7 @@
     "Application.FizzBuzz.executor": "Run",
     "Application.IniciaisMaiusculas.executor": "Run",
     "Application.MDC.executor": "Run",
+    "Application.MaiorNumero.executor": "Run",
     "Application.MostrarImpares.executor": "Run",
     "Application.MostrarPares.executor": "Run",
     "Application.NumerosAleatorios.executor": "Run",
@@ -79,6 +83,7 @@
     "Application.ValidadorCPF.executor": "Run",
     "Application.VerificaData.executor": "Run",
     "Application.VerificaNegativoPositivo.executor": "Run",
+    "Application.VerificaOrdenados.executor": "Run",
     "Application.VerificaParOuImpar.executor": "Run",
     "Application.verificadorData.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -101,8 +106,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62" />
-        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62" />
+        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.20224.300" />
+        <option value="bundled-js-predefined-d6986cc7102b-410509235cf1-JavaScript-IU-242.20224.300" />
       </set>
     </attachedChunks>
   </component>
@@ -126,6 +131,7 @@
       <workItem from="1722375495170" duration="5287000" />
       <workItem from="1722634879947" duration="4548000" />
       <workItem from="1722980449549" duration="3704000" />
+      <workItem from="1723239933060" duration="5608000" />
     </task>
     <task id="LOCAL-00001" summary="add: arquivos iniciais">
       <option name="closed" value="true" />
@@ -171,6 +177,10 @@
           <line>15</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="3" />
+        </breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
