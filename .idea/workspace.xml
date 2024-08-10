@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e844c916-13ef-4285-b5f5-782a8673573d" name="Changes" comment="add: arquivos iniciais&#10;add: exercícios operadores logicos e condicionais simples&#10;&#10;add: Exercicios 26/04&#10;add: Desafios&#10;add: Desafio tempoDecorrido&#10;add: ForLoop&#10;add: vetores e laço for&#10;&#10;add: teste10">
-      <change afterPath="$PROJECT_DIR$/src/Methods/CalculaMedia.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Methods/MaiorNumero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Methods/VerificaOrdenados.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Methods/TempoDecorrido.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strings/EncontraPalavra.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Methods/VerificaNota.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Methods/VerificaNota.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +33,7 @@
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/Riedel-Gabriela/Java-repo.git",
-    "accountId": "0683bd9f-fdfb-40df-9a2c-ed1406d58bc1"
+    "accountId": "7811d711-949a-4289-beda-197761be81dd"
   }
 }]]></component>
   <component name="MarkdownSettingsMigration">
@@ -56,6 +54,7 @@
     "Application.CalculadoraSimples.executor": "Run",
     "Application.ContadorPalavras.executor": "Run",
     "Application.Diagnostico.executor": "Run",
+    "Application.EncontraPalavra.executor": "Run",
     "Application.Exercicio1_PrintString.executor": "Run",
     "Application.Exercicio1_Strings.executor": "Run",
     "Application.Exercicio2_ComprimentoSenha.executor": "Run",
@@ -100,6 +99,7 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "Console",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -132,6 +132,7 @@
       <workItem from="1722634879947" duration="4548000" />
       <workItem from="1722980449549" duration="3704000" />
       <workItem from="1723239933060" duration="5608000" />
+      <workItem from="1723291330691" duration="2575000" />
     </task>
     <task id="LOCAL-00001" summary="add: arquivos iniciais">
       <option name="closed" value="true" />
