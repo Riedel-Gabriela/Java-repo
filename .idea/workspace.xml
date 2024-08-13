@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e844c916-13ef-4285-b5f5-782a8673573d" name="Changes" comment="add: arquivos iniciais&#10;add: exercícios operadores logicos e condicionais simples&#10;&#10;add: Exercicios 26/04&#10;add: Desafios&#10;add: Desafio tempoDecorrido&#10;add: ForLoop&#10;add: vetores e laço for&#10;&#10;add: teste10">
-      <change afterPath="$PROJECT_DIR$/src/Methods/FatorialRecursive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Methods/MDCRecursive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Testes/Teste11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Testes/Teste11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Testes/Teste11.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +31,7 @@
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/Riedel-Gabriela/Java-repo.git",
-    "accountId": "c578ad06-3dae-41ee-b417-688348d0663b"
+    "accountId": "f1011fff-e8b3-41e7-839d-211eb69cde2e"
   }
 }]]></component>
   <component name="MarkdownSettingsMigration">
@@ -49,63 +46,63 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.CalculaMedia.executor": "Run",
-    "Application.CalculadoraSimples.executor": "Run",
-    "Application.ContadorPalavras.executor": "Run",
-    "Application.Diagnostico.executor": "Run",
-    "Application.EncontraPalavra.executor": "Run",
-    "Application.Exercicio1_PrintString.executor": "Run",
-    "Application.Exercicio1_Strings.executor": "Run",
-    "Application.Exercicio2_ComprimentoSenha.executor": "Run",
-    "Application.Exercicio4_VerificaSenha.executor": "Run",
-    "Application.Exercicio9_CalculadoraSwitchCase.executor": "Run",
-    "Application.FatorialRecursive.executor": "Run",
-    "Application.Fibonacci.executor": "Run",
-    "Application.FizzBuzz.executor": "Run",
-    "Application.IniciaisMaiusculas.executor": "Run",
-    "Application.MDC.executor": "Run",
-    "Application.MDCRecursive.executor": "Run",
-    "Application.MaiorNumero.executor": "Run",
-    "Application.MostrarImpares.executor": "Run",
-    "Application.MostrarPares.executor": "Run",
-    "Application.NumerosAleatorios.executor": "Run",
-    "Application.OrdemNumerica.executor": "Run",
-    "Application.PA.executor": "Run",
-    "Application.PG.executor": "Run",
-    "Application.PrevisorDoTempo.executor": "Run",
-    "Application.PrimeNumber.executor": "Run",
-    "Application.TempoDecorrido.executor": "Run",
-    "Application.Teste10.executor": "Run",
-    "Application.Teste5.executor": "Run",
-    "Application.Teste6.executor": "Run",
-    "Application.Teste8.executor": "Run",
-    "Application.Teste9.executor": "Run",
-    "Application.ValidadorCPF.executor": "Run",
-    "Application.VerificaData.executor": "Run",
-    "Application.VerificaNegativoPositivo.executor": "Run",
-    "Application.VerificaOrdenados.executor": "Run",
-    "Application.VerificaParOuImpar.executor": "Run",
-    "Application.verificadorData.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/aluno/Downloads/Pesos",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "Console",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.CalculaMedia.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CalculadoraSimples.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ContadorPalavras.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Diagnostico.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EncontraPalavra.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exercicio1_PrintString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exercicio1_Strings.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exercicio2_ComprimentoSenha.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exercicio4_VerificaSenha.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exercicio9_CalculadoraSwitchCase.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FatorialRecursive.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Fibonacci.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FizzBuzz.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IniciaisMaiusculas.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MDC.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MDCRecursive.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MaiorNumero.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MostrarImpares.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MostrarPares.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NumerosAleatorios.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OrdemNumerica.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PA.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PG.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrevisorDoTempo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrimeNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TempoDecorrido.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Teste10.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Teste5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Teste6.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Teste8.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Teste9.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ValidadorCPF.executor&quot;: &quot;Run&quot;,
+    &quot;Application.VerificaData.executor&quot;: &quot;Run&quot;,
+    &quot;Application.VerificaNegativoPositivo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.VerificaOrdenados.executor&quot;: &quot;Run&quot;,
+    &quot;Application.VerificaParOuImpar.executor&quot;: &quot;Run&quot;,
+    &quot;Application.verificadorData.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/aluno/Downloads/Pesos&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;Console&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -137,6 +134,7 @@
       <workItem from="1723239933060" duration="5608000" />
       <workItem from="1723291330691" duration="2575000" />
       <workItem from="1723585779797" duration="4339000" />
+      <workItem from="1723593319932" duration="233000" />
     </task>
     <task id="LOCAL-00001" summary="add: arquivos iniciais">
       <option name="closed" value="true" />

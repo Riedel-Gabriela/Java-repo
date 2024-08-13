@@ -26,11 +26,15 @@ public class Teste11 {
         Arrays.sort(conjunto1);
         Arrays.sort(conjunto2);
 
-        boolean flag = false;
-
-        for(int i = 0; i < conjunto1.length; i++) {
-            flag = conjunto1[i].equals(conjunto2[i]);
+        if (conjunto1.length != conjunto2.length) {
+            return false;
+        } else {
+            for(int i = 0; i < conjunto1.length; i++) {
+                if (!conjunto1[i].equals(conjunto2[i])) {
+                    return false;
+                }
+            }
+            return true;
         }
-        return flag;
     }
 }
