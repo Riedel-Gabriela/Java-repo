@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e844c916-13ef-4285-b5f5-782a8673573d" name="Changes" comment="add: arquivos iniciais&#10;add: exercícios operadores logicos e condicionais simples&#10;&#10;add: Exercicios 26/04&#10;add: Desafios&#10;add: Desafio tempoDecorrido&#10;add: ForLoop&#10;add: vetores e laço for&#10;&#10;add: teste10">
-      <change afterPath="$PROJECT_DIR$/src/Methods/TempoDecorrido.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Strings/EncontraPalavra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Methods/FatorialRecursive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Methods/MDCRecursive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Testes/Teste11.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,7 +34,7 @@
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/Riedel-Gabriela/Java-repo.git",
-    "accountId": "7811d711-949a-4289-beda-197761be81dd"
+    "accountId": "c578ad06-3dae-41ee-b417-688348d0663b"
   }
 }]]></component>
   <component name="MarkdownSettingsMigration">
@@ -60,10 +61,12 @@
     "Application.Exercicio2_ComprimentoSenha.executor": "Run",
     "Application.Exercicio4_VerificaSenha.executor": "Run",
     "Application.Exercicio9_CalculadoraSwitchCase.executor": "Run",
+    "Application.FatorialRecursive.executor": "Run",
     "Application.Fibonacci.executor": "Run",
     "Application.FizzBuzz.executor": "Run",
     "Application.IniciaisMaiusculas.executor": "Run",
     "Application.MDC.executor": "Run",
+    "Application.MDCRecursive.executor": "Run",
     "Application.MaiorNumero.executor": "Run",
     "Application.MostrarImpares.executor": "Run",
     "Application.MostrarPares.executor": "Run",
@@ -133,6 +136,7 @@
       <workItem from="1722980449549" duration="3704000" />
       <workItem from="1723239933060" duration="5608000" />
       <workItem from="1723291330691" duration="2575000" />
+      <workItem from="1723585779797" duration="4339000" />
     </task>
     <task id="LOCAL-00001" summary="add: arquivos iniciais">
       <option name="closed" value="true" />
